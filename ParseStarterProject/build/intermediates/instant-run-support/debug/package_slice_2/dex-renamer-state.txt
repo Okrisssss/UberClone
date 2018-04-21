@@ -1,0 +1,4 @@
+#Mon Mar 05 20:37:27 EET 2018
+base.0=/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

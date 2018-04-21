@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/02bf19f0c45f8dd214c21f5796da52cdf697b8b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c86a43a5bf291c27eafe916972ac93738ce04e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/c0b923e84787e82889a4da6d6266f43719b780ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8bb7f1d2094c9dc32f23d4721ee3b3648fa2165/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/568e9191e8c16126acebb338cb2ad6229049b884/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_baf5307866b8405b776e5c876d319c4e0c0ff913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/2928763cd847336ea2193bf1a2028d91b808f1b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b47fe2bb0d9a1203355d7aada0778a70ce677e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cfa8abb4435a15f34629634f04bbe31cac04ba99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_ecfab9245e34b41d6133e435a1fbfce40e2b2eef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/517d74269a37cbc733f2f9ac338707d950bac27b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ddcd77234b23d505fb6623a5703dbd93ac0e560/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/891b66641baeb8ce67ba50d43d69bb752a73468d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43ef81276563620bf2d0029634ef98e2c9f9e3b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/ceb58975837cf2564089ca7c9c8c05e39d966967/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df64ac9d9fb40c9af0efe7a99214e21b3f540248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/5141ee376e30bd2ebd4a12e420fb4eb4bc6bdfc5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf35d9c842295e8fb538c28ddeb45b356a725c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/c59d59b92eaa816ee448edb5c463e242a203d4a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1c1586f7ab98b64016f0cb848f6a688beac149f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/18339437cd5bc64ca0c7a9c829bde1e3decde84a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4f7384e09d3724e9ea14e1e6d31dcc98e16ec72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/1c8aa9cc80125c0f1bdc167e16331ff603e435d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18f82b1afda0c670a1ee9a8907396604687a1981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3273d23b56f780e72158603c23882099b1efbbd8">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76c13cca03224fe796e46f7d5c25d6028cc1f615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/1755694bc447ee18c7b4c05eaabd1e283b4038a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f991c15ea5ad445a89d7b341d9c50f1705b17f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/d5fafb66862df53b4c7714571d784417a3e32a10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d811a7531e26633104e6a6bab2f0584d93b66931/classes.dex" />
+    </item>
+
+</items>

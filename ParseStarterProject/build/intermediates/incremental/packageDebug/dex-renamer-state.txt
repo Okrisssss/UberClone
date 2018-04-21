@@ -1,0 +1,7 @@
+#Mon Mar 05 19:34:20 EET 2018
+base.0=/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76c13cca03224fe796e46f7d5c25d6028cc1f615
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cfa8abb4435a15f34629634f04bbe31cac04ba99/classes.dex
+base.1=/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cfa8abb4435a15f34629634f04bbe31cac04ba99
+file.0=/Users/apple/Desktop/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76c13cca03224fe796e46f7d5c25d6028cc1f615/classes.dex

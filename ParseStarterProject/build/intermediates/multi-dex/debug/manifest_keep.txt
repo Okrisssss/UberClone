@@ -1,0 +1,3 @@
+# Referenced at /Users/apple/Documents/uber/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:28
+-keep class com.parse.starter.StarterApplication { <init>(...); }
+
